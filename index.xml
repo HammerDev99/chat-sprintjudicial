@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bienvenido a Landing Chat on Landing Chat Bots</title>
-    <link>http://localhost:1313/</link>
+    <link>http://chat.sprintjudicial.com/</link>
     <description>Recent content in Bienvenido a Landing Chat on Landing Chat Bots</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://chat.sprintjudicial.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
